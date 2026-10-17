@@ -50,7 +50,7 @@ env:
   APP_DESC: "Graphical user interface for StepReg"
   APP_HOMEPAGE: "https://github.com/JunhuiLi1017/StepRegShiny"
   APP_LICENSE: "MIT"
-  APP_MODE: "auto"
+  APP_MODE: "flat"
   APP_SUBDIR: "inst/shiny"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
